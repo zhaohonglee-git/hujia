@@ -1,0 +1,3 @@
+[submodule "frontend/hujia_menhu"]
+    path = frontend/hujia_menhu
+    url = <https://github.com/zhaohonglee-git/hujia/tree/first_hujia_menhu/frontend.git>
